@@ -1,0 +1,3 @@
+% pacman
+# Remove pacman cache of uninstalled packages
+sudo paccache -ruk0
