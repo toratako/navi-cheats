@@ -1,9 +1,13 @@
 % tuned
+
+
 # Show active tuned profile
 tuned-adm active
 
+
 # List available tuned profiles
 tuned-adm list
+
 
 # Change tuned profile
 tuned-adm profile <PROFILE>
